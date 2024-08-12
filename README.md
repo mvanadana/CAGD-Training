@@ -51,6 +51,28 @@ This C# console application is designed to visualize polygons by allowing users 
 - Applies transformations based on user choices.
 - Invokes the triangulation process.
 
+### `Point` Class
+
+The `Point` class represents a point in a 2D coordinate system.
+
+- **Properties**:
+  - `X`: The x-coordinate of the point (read-only).
+  - `Y`: The y-coordinate of the point (read-only).
+
+- **Constructor**:
+  - `Point(double x, double y)`: Initializes a new instance of the `Point` class with the specified x and y coordinates.
+
+### `Triangle` Class
+
+The `Triangle` class represents a triangle defined by three vertices.
+
+- **Properties**:
+  - `A`: The first vertex of the triangle (read-only).
+  - `B`: The second vertex of the triangle (read-only).
+  - `C`: The third vertex of the triangle (read-only).
+
+- **Constructor**:
+  - `Triangle(Point a, Point b, Point c)`: Initializes a new instance of the `Triangle` class with the specified vertices.
 ### `Triangulation` Class
 
 - Contains the logic for triangulating the polygon using the simple triangle detection algorithm.
