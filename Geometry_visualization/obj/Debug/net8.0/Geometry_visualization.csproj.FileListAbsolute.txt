@@ -1,0 +1,14 @@
+E:\CAGD_Training\week_1\Geometry_visualization\bin\Debug\net8.0\Geometry_visualization.exe
+E:\CAGD_Training\week_1\Geometry_visualization\bin\Debug\net8.0\Geometry_visualization.deps.json
+E:\CAGD_Training\week_1\Geometry_visualization\bin\Debug\net8.0\Geometry_visualization.runtimeconfig.json
+E:\CAGD_Training\week_1\Geometry_visualization\bin\Debug\net8.0\Geometry_visualization.dll
+E:\CAGD_Training\week_1\Geometry_visualization\bin\Debug\net8.0\Geometry_visualization.pdb
+E:\CAGD_Training\week_1\Geometry_visualization\obj\Debug\net8.0\Geometry_visualization.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAGD_Training\week_1\Geometry_visualization\obj\Debug\net8.0\Geometry_visualization.AssemblyInfoInputs.cache
+E:\CAGD_Training\week_1\Geometry_visualization\obj\Debug\net8.0\Geometry_visualization.AssemblyInfo.cs
+E:\CAGD_Training\week_1\Geometry_visualization\obj\Debug\net8.0\Geometry_visualization.csproj.CoreCompileInputs.cache
+E:\CAGD_Training\week_1\Geometry_visualization\obj\Debug\net8.0\Geometry_visualization.dll
+E:\CAGD_Training\week_1\Geometry_visualization\obj\Debug\net8.0\refint\Geometry_visualization.dll
+E:\CAGD_Training\week_1\Geometry_visualization\obj\Debug\net8.0\Geometry_visualization.pdb
+E:\CAGD_Training\week_1\Geometry_visualization\obj\Debug\net8.0\Geometry_visualization.genruntimeconfig.cache
+E:\CAGD_Training\week_1\Geometry_visualization\obj\Debug\net8.0\ref\Geometry_visualization.dll
