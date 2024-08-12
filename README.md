@@ -53,7 +53,7 @@ This C# console application is designed to visualize polygons by allowing users 
 
 ### `Triangulation` Class
 
-- Contains the logic for triangulating the polygon using the ear clipping algorithm.
+- Contains the logic for triangulating the polygon using the simple traingle detection algorithm.
 - Provides methods for checking triangle validity and calculating areas.
 
 ### Transformation Methods
