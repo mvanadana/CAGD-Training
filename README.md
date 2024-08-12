@@ -39,6 +39,9 @@ This C# console application is designed to visualize polygons by allowing users 
 
 6. **Output**:
    - The resulting triangles are written to an output file or displayed as per the implementation.
+   - An output file viewed in GNU Plot for a polygon with 7 vertices 
+![output file](https://github.com/user-attachments/assets/263e00ac-ee59-4169-9d4e-7d3072d864d3)
+
 
 ## Code Structure
 
